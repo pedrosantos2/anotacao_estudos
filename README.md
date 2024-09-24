@@ -41,7 +41,7 @@ Para importar o projeto em sua máquina, siga os passos abaixo:
 
 
 <p>
-  <img src="/imagens/Captura de tela 2024-09-24 202830.png" alt="Texto Alternativo" width="300" style="display: inline-block; margin-right: 10px;">
-  <img src="/imagens/Captura de tela 2024-09-24 202854.png" alt="Texto Alternativo" width="300" style="display: inline-block; margin-right: 10px;">
-  <img src="/imagens/Captura de tela 2024-09-24 202921.png" alt="Texto Alternativo" width="300" style="display: inline-block;">
+  <img src="/imagens/Captura de tela 2024-09-24 202830.png" alt="Texto Alternativo" width="200" style="display: inline-block; margin-right: 10px;">
+  <img src="/imagens/Captura de tela 2024-09-24 202854.png" alt="Texto Alternativo" width="200" style="display: inline-block; margin-right: 10px;">
+  <img src="/imagens/Captura de tela 2024-09-24 202921.png" alt="Texto Alternativo" width="200" style="display: inline-block;">
 </p>
