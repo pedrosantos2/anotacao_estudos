@@ -28,14 +28,20 @@ Para importar o projeto em sua máquina, siga os passos abaixo:
    
 3. **Navegue até o diretório do projeto:**
    
-  Copiar código
-  cd app-anotacao-estudos
+   Copiar código
+   cd app-anotacao-estudos
      
 3. **Instale as dependências:**
 
-  flutter pub get
+   flutter pub get
 
 4. **Execute o aplicativo:**
-  Copiar código
-  flutter run
+   Copiar código
+   flutter run
 
+
+<img src="/imagens/Captura de tela 2024-09-24 202830.png" alt="Texto Alternativo">
+
+<img src="/imagens/Captura de tela 2024-09-24 202854.png" alt="Texto Alternativo">
+
+<img src="/imagens/Captura de tela 2024-09-24 202921.png" alt="Texto Alternativo">
